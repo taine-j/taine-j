@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [tainejarvis.com](tainejarvis.com)
 
-- 📫 How to reach me **tainejarvis_dev@gmail.com**
+- 📫 How to reach me **tainejarvis.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
