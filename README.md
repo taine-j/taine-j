@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/taine-j" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="www.linkedin.com/in/taine-j" height="60" width="80" /></a>
+<a href="https://www.linkedin.com/in/taine-j" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="www.linkedin.com/in/taine-j" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
